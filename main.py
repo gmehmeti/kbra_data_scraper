@@ -13,6 +13,8 @@ from selenium.webdriver.common.keys import Keys
 
 import models as m
 
+# python -m pip install requests
+
 NUI = ''
 root = tk.Tk()
 root.withdraw()
