@@ -2,7 +2,7 @@
 
 
 A Python script to scrape business registration data from ARBK's website.
-The Business Registration Agency [KBRA](https://arbk.rks-gov.net/)is the only responsible institution for the registration of Kosovo businesses.
+The Business Registration Agency [KBRA](https://arbk.rks-gov.net/) is the only responsible institution for the registration of Kosovo businesses.
 
 ## Requirements
 - [Selenium](https://www.selenium.dev/)
